@@ -10,3 +10,5 @@
 * step 2 Train model 
   
     `python main_bciciv2a.py -data_dir ~/dataset/bciciv2a/pkl -id 1`
+## Licence
+For academtic and non-commercial usage
