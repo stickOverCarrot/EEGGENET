@@ -1,4 +1,5 @@
 # EEG_GENet：A Feature-Level Graph Embedded Method for Motor Imagery Classification based on EEG Signal 
+## Paper link: https://www.sciencedirect.com/science/article/pii/S0208521622000766?casa_token=_7Ii_umHfj0AAAAA:RzKOVOKyvHmfiG2AudWu4pyMd24Kiasgxyo34bBH7EXQHsNyoRkXORyy1iQdgFVWm3hraYIOhIE
 ## Environment
 * python 3.7
 * pytorch 1.8.0
